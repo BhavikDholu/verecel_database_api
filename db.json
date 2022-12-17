@@ -411,7 +411,7 @@
     }
   }
   ],
-  "men's clothes": [
+  "men_clothes": [
   {"id":35,
    "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
    "price":109.95,
@@ -469,7 +469,7 @@
      "image":"https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
      "rating":{"rate":2.1,"count":430}}
   ],
-  "women's clothes":[
+  "women_clothes":[
      {
        "id":46,
        "title":"BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
