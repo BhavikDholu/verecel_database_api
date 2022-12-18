@@ -566,5 +566,39 @@
       "category":"women's clothing",
       "image":"https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
       "rating":{"rate":3.6,"count":145}}
+  ],
+  "user":[
+    {
+    "id":1,
+      "userId": 1,
+      "date" : "2022-03-02",
+      "total":2000,
+      "Delivery_date":"",
+      "status":"pending"
+    },
+    {
+    "id":2,
+      "userId": 2,
+      "date" : "2022-03-02",
+      "total":20000,
+      "Delivery_date":"",
+      "status":"pending"
+    },
+    {
+    "id":3,
+      "userId": 3,
+      "date" : "2022-03-02",
+      "total":2000,
+      "Delivery_date":"",
+      "status":"pending"
+    },
+    {
+    "id":4,
+      "userId": 4,
+      "date" : "2022-03-02",
+      "total":4000,
+      "Delivery_date":"",
+      "status":"pending"
+    }
   ]
 }
