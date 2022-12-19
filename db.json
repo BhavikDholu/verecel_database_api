@@ -598,7 +598,23 @@
       "date" : "2022-03-02",
       "total":4000,
       "Delivery_date":"",
-      "status":"pending"
+      "status":"cancel"
+    },
+    {
+    "id":5,
+      "userId": 5,
+      "date" : "2022-03-02",
+      "total":2000,
+      "Delivery_date":"",
+      "status":"process"
+    },
+    {
+    "id":6,
+      "userId": 6,
+      "date" : "2022-03-02",
+      "total":4000,
+      "Delivery_date":"",
+      "status":"delivered"
     }
   ]
 }
