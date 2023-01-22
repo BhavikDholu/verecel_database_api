@@ -573,7 +573,7 @@
       "userId": 1,
       "date" : "2022-03-02",
       "total":2000,
-      "Delivery_date":"",
+      "Delivery_date":"2022-03-02",
       "status":"pending"
     },
     {
@@ -581,7 +581,7 @@
       "userId": 2,
       "date" : "2022-03-02",
       "total":20000,
-      "Delivery_date":"",
+      "Delivery_date":"2022-03-02",
       "status":"pending"
     },
     {
